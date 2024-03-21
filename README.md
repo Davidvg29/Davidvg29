@@ -1,5 +1,5 @@
-# ¡Hola!👋
- Soy **David Valdez Gramajo** y desarrollo sitios web apasionadamente tanto lado servidor como lado cliente (frontend, backend y base de datos), ajustándome a las buenas practicas y buenas estructuras de proyectos.
+# ¡Hola!. Me llamo **David Valdez Gramajo**👋
+ Soy desarrollador de sitios web apasionadamente tanto lado servidor como lado cliente (frontend, backend y base de datos), ajustándome a las buenas practicas y buenas estructuras de proyectos.
  
 **Portafolio:** [https://davidvaldezgramajo.vercel.app/](https://davidvaldezgramajo.vercel.app/)
 
@@ -24,8 +24,8 @@
  
  - **Ingeniería en sistemas de información | UTN-FRT:** Trabajé en grupo realizando tareas, aprendí lógica, arquitectura de software y manejar básicamente C# y C++.
 
-# Hello!👋
- I am **David Valdez Gramajo** and I passionately develop websites both server side and client side (frontend, backend and database), adjusting to good practices and good project structures.
+# Hello!. My name is **David Valdez Gramajo**👋👋
+ I passionately develop websites both server side and client side (frontend, backend and database), adjusting to good practices and good project structures.
  
 **Portfolio:** [https://davidvaldezgramajo.vercel.app/](https://davidvaldezgramajo.vercel.app/)
 
