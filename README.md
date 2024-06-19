@@ -1,5 +1,5 @@
 # ¡Hola!. Me llamo **David Valdez Gramajo**👋
- Soy desarrollador de sitios web apasionadamente tanto lado servidor como lado cliente (frontend, backend y base de datos), ajustándome a las buenas practicas y buenas estructuras de proyectos.
+ Soy un desarrollador de software apasionado con experiencia en el desarrollo tanto del lado del servidor como del lado del cliente. Tengo habilidades en frontend, backend y bases de datos, y me ajusto a las buenas prácticas y estructuras de proyectos bien organizadas.
  
 **Portafolio:** [https://davidvaldezgramajo.vercel.app/](https://davidvaldezgramajo.vercel.app/)
 
