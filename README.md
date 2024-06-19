@@ -4,11 +4,17 @@
 **Portafolio:** [https://davidvaldezgramajo.vercel.app/](https://davidvaldezgramajo.vercel.app/)
 
 ## ¿Que hago?
- - Webs dinamicas y estaticas de todo tipo con un diseño ux ui agradable e intuitiva hacia el usuario.
- - Apis REST full para el manejo de datos de tu aplicacion o sitio web.
- - Diseño y mantenimiento de bases de datos.
- - Optimización de rendimientos
- - y mucho mas...
+#Desarrollo Web
+-Webs Dinámicas y Estáticas: Creo sitios web de todo tipo, con un diseño UX/UI agradable e intuitivo para el usuario.
+-APIs RESTful: Desarrollo APIs robustas para manejar los datos de tu aplicación o sitio web de manera eficiente.
+#Bases de Datos
+-Diseño y Mantenimiento: Diseño bases de datos relacionales y no relacionales, asegurando su correcto funcionamiento y optimización.
+-Optimización de Rendimiento: Mejoro el rendimiento de aplicaciones y bases de datos para asegurar una experiencia de usuario rápida y fluida.
+#Servicios Adicionales
+-Consultoría: Asesoramiento en la arquitectura de software y mejores prácticas de desarrollo.
+-Soporte y Mantenimiento: Ofrezco servicios de mantenimiento y actualización para asegurar que tus proyectos se mantengan actualizados y seguros.
+-Automatización: Implemento soluciones de automatización para mejorar la eficiencia y reducir el tiempo de tareas repetitivas.
+-Y mucho más...
 
 ## Tecnologías
 >  **Frontend:** Redux, React, JavaScript, HTML, CSS, Bootstrap 
