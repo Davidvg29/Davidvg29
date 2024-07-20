@@ -21,11 +21,13 @@
 - Y mucho más...
 
 ## Tecnologías
->  **Frontend:** Redux, React, JavaScript, HTML, CSS, Bootstrap, Talwind, DaisyUI 
+>  **Lenguajes de programacion:** JavaScript, Java, SQL 
+
+>  **Frontend:** Redux, React, HTML, CSS, Bootstrap, Talwind, DaisyUI 
 
 >**Backend:** Express, Node
 
->**Data Base:** SQL, Sequelize, mongoDB, PostgreSQL
+>**Data Base:** Sequelize, mongoDB, PostgreSQL
 
 >**Skill:** RESTfull api, Firebase, Jest, multer, cloudinary, Testing, Git, Jira, Ilustrator, Photoshop, Scrum
 
