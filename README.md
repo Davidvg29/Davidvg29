@@ -63,11 +63,13 @@ I am a passionate software developer with experience in both server-side and cli
 - And much more...
 
 ## Technologies
-> **Frontend:** Redux, React, JavaScript, HTML, CSS, Bootstrap, Tailwind, DaisyUI 
+>  **Lenguajes de programacion:** JavaScript, Java, SQL 
+
+> **Frontend:** Redux, React, HTML, CSS, Bootstrap, Tailwind, DaisyUI 
 
 > **Backend:** Express, Node
 
-> **Database:** SQL, Sequelize, MongoDB, PostgreSQL
+> **Database:** Sequelize, MongoDB, PostgreSQL
 
 > **Skill:** RESTful API, Firebase, Jest, Multer, Cloudinary, Testing, Git, Jira, Illustrator, Photoshop, Scrum
 
