@@ -1,7 +1,7 @@
 # ¡Hola!. Me llamo **David Valdez Gramajo**👋
  Soy un desarrollador de software apasionado con experiencia en el desarrollo tanto del lado del servidor como del lado del cliente. Tengo habilidades en frontend, backend y bases de datos, y me ajusto a las buenas prácticas y estructuras de proyectos bien organizadas.
  
-**Portafolio:** [https://davidvaldezgramajo.vercel.app/](https://davidvaldezgramajo.vercel.app/)
+**Portafolio:** [https://www.davidvaldezgramajo.com.ar/](https://www.davidvaldezgramajo.com.ar/)
 
 ## ¿Que hago?
 
@@ -41,7 +41,7 @@
 # Hello! My name is **David Valdez Gramajo**👋
 I am a passionate software developer with experience in both server-side and client-side development. I have skills in frontend, backend, and databases, and I adhere to best practices and well-organized project structures.
 
-**Portfolio:** [https://davidvaldezgramajo.vercel.app/](https://davidvaldezgramajo.vercel.app/)
+**Portfolio:** [https://www.davidvaldezgramajo.com.ar/](https://www.davidvaldezgramajo.com.ar/)
 
 ## What I Do
 
