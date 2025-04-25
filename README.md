@@ -20,16 +20,19 @@
 - Automatización: Implemento soluciones de automatización para mejorar la eficiencia y reducir el tiempo de tareas repetitivas.
 - Y mucho más...
 
-## Tecnologías
->  **Lenguajes de programacion:** JavaScript, Java, SQL 
+## Habilidades Técnicas
 
->  **Frontend:** Redux, React, HTML, CSS, Bootstrap, Talwind, DaisyUI 
+> **DevOps y entornos:** Linux, Cloud deployment (servidores Linux), Git, GitHub, Jira, Trello
+> **Lenguajes de programación:** JavaScript, Java, SQL, Python
+> **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap
+> **Backend:** Node.js, Express, Spring Boot
+> **Bases de Datos:** PostgreSQL, MySQL, Sequelize (ORM), MongoDB
+> **Testing y QA:** Jest, Testing automatizado
+> **Servicios y Herramientas:** RESTful APIs, Firebase, Multer, Cloudinary
+> **Diseño y UI/UX:** Adobe Illustrator, Adobe Photoshop
+> **Metodologías Ágiles:** Srum
 
->**Backend:** Express, Node
 
->**Data Base:** Sequelize, mongoDB, PostgreSQL
-
->**Skill:** RESTfull api, Firebase, Jest, multer, cloudinary, Testing, Git, Jira, Ilustrator, Photoshop, Scrum
 
 ## Educación
 - **Tecnicatura superior en programacion | UTN-FRT:** en curso...
