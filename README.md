@@ -22,23 +22,23 @@
 
 ## Habilidades Técnicas
 
-> **DevOps y entornos:** Linux, Cloud deployment (servidores Linux), Git, GitHub, Jira, Trello
+- **DevOps y entornos:** Linux, Cloud deployment (servidores Linux), Git, GitHub, Jira, Trello
 
-> **Lenguajes de programación:** JavaScript, Java, SQL, Python
+- **Lenguajes de programación:** JavaScript, Java, SQL, Python
 
-> **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap
+- **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap
 
-> **Backend:** Node.js, Express, Spring Boot
+- **Backend:** Node.js, Express, Spring Boot
 
-> **Bases de Datos:** PostgreSQL, MySQL, Sequelize (ORM), MongoDB
+- **Bases de Datos:** PostgreSQL, MySQL, Sequelize (ORM), MongoDB
 
-> **Testing y QA:** Jest, Testing automatizado
+- **Testing y QA:** Jest, Testing automatizado
 
-> **Servicios y Herramientas:** RESTful APIs, Firebase, Multer, Cloudinary
+- **Servicios y Herramientas:** RESTful APIs, Firebase, Multer, Cloudinary
 
-> **Diseño y UI/UX:** Adobe Illustrator, Adobe Photoshop
+- **Diseño y UI/UX:** Adobe Illustrator, Adobe Photoshop
 
-> **Metodologías Ágiles:** Srum
+- **Metodologías Ágiles:** Srum
 
 
 
