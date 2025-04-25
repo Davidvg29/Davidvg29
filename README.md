@@ -73,16 +73,25 @@ I am a passionate software developer with experience in both server-side and cli
 - Automation: I implement automation solutions to improve efficiency and reduce the time spent on repetitive tasks.
 - And much more...
 
-## Technologies
->  **Lenguajes de programacion:** JavaScript, Java, SQL 
+## Habilidades Técnicas
 
-> **Frontend:** Redux, React, HTML, CSS, Bootstrap, Tailwind, DaisyUI 
+- **DevOps y entornos:** Linux, Cloud deployment (servidores Linux), Git, GitHub, Jira, Trello
 
-> **Backend:** Express, Node
+- **Lenguajes de programación:** JavaScript, Java, SQL, Python
 
-> **Database:** Sequelize, MongoDB, PostgreSQL
+- **Frontend:** React, Redux, HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap
 
-> **Skill:** RESTful API, Firebase, Jest, Multer, Cloudinary, Testing, Git, Jira, Illustrator, Photoshop, Scrum
+- **Backend:** Node.js, Express, Spring Boot
+
+- **Bases de Datos:** PostgreSQL, MySQL, Sequelize (ORM), MongoDB
+
+- **Testing y QA:** Jest, Testing automated
+
+- **Servicios y Herramientas:** RESTful APIs, Firebase, Multer, Cloudinary
+
+- **Diseño y UI/UX:** Adobe Illustrator, Adobe Photoshop
+
+- **Metodologías Ágiles:** Srum
 
 ## Education
 - **Higher Technical Degree in Programming | UTN-FRT:** In progress...
