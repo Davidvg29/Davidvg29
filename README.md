@@ -1,3 +1,36 @@
+# ¡Hola! Soy **David Valdez Gramajo** 👋
+
+**Desarrollador Full Stack | Tech Lead**
+
+Con más de 3 años de experiencia creando aplicaciones web modernas y escalables. Me especializo en el ecosistema JavaScript/Node.js (Stack PERN) y me apasiona diseñar arquitecturas sólidas, optimizar bases de datos y escribir código limpio siguiendo buenas prácticas.
+
+🌐 **Portafolio:** [davidvaldezgramajo.com.ar](https://www.davidvaldezgramajo.com.ar/)
+
+## 🚀 ¿Qué hago?
+
+- **Desarrollo Web Full Stack:** Creación de aplicaciones de extremo a extremo, desde interfaces intuitivas y dinámicas hasta APIs RESTful robustas y seguras.
+- **Arquitectura y Bases de Datos:** Diseño, optimización y mantenimiento de bases de datos relacionales (PostgreSQL/MySQL) y no relacionales.
+- **Liderazgo y Consultoría:** Experiencia gestionando repositorios, definiendo arquitecturas de software y aportando soluciones técnicas eficientes.
+- **Automatización y Entornos:** Configuración de servidores, despliegues y automatización de tareas para mejorar el rendimiento de los proyectos.
+
+## 🛠️ Stack Tecnológico
+
+- **Lenguajes:** JavaScript, Java, Python, SQL
+- **Frontend:** React, React Native, Redux, Tailwind CSS, Bootstrap, HTML/CSS
+- **Backend:** Node.js, Express, Spring Boot
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Sequelize (ORM)
+- **DevOps y Herramientas:** Linux, Docker, Nginx, Git/GitHub, Jest, Firebase
+- **Diseño UI/UX:** Adobe Illustrator, Adobe Photoshop
+- **Metodologías:** Scrum, Trabajo Ágil
+
+## 🎓 Educación
+
+- **Técnico Superior en Programación** | UTN - Facultad Regional Tucumán *(Graduado)*
+- **Full Stack Web Developer** | Soy Henry (Bootcamp)
+- **Formación Continua:** Aprendizaje constante y autodidacta en nuevas tecnologías, arquitecturas (como Monolitos Modulares) y desarrollo móvil.
+
+
+
 # ¡Hola!. Me llamo **David Valdez Gramajo**👋
  Soy un desarrollador de software apasionado con experiencia en el desarrollo tanto del lado del servidor como del lado del cliente. Tengo habilidades en frontend, backend y bases de datos, y me ajusto a las buenas prácticas y estructuras de proyectos bien organizadas.
  
